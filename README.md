@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Challen
 
-<!--
-**ChallenXiao/ChallenXiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👀 I am interested in **AI Infrastructure, Large Language Model Inference, CUDA/Triton, Deep Learning Systems, Robotics and Computer Vision**.
+- 🚀 Currently focusing on **LLM inference acceleration, operator optimization, KV Cache, vLLM/SGLang, and distributed AI systems**.
+- 🎓 I am studying **Robotics, Cognition and Intelligence at Technical University of Munich**.
+- 📫 Contact me: **herrxiao@outlook.com**
+- 💬 WeChat: `your-wechat-id`
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChallenXiao&show_icons=true&theme=default" />
+</p>
+
+---
+
+🎯 Passionate about **AI Infra / LLM Systems / CUDA / Robotics**. Welcome to connect!
