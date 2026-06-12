@@ -1,10 +1,9 @@
 # Hi 👋, I'm Challen
 
-- 👀 I am interested in **AI Infrastructure, Large Language Model Inference, CUDA/Triton, Deep Learning Systems, Robotics and Computer Vision**.
-- 🚀 Currently focusing on **LLM inference acceleration, operator optimization, KV Cache, vLLM/SGLang, and distributed AI systems**.
-- 🎓 I am studying **Robotics, Cognition and Intelligence at Technical University of Munich**.
+- 👀 I am interested in **AI Infrastructure, Large Language Model Inference, CUDA/Triton, Deep Learning, Robotics and Computer Vision**.
+- 🚀 Currently focusing on **LLM inference acceleration, operator optimization, vLLM/SGLang, and distributed AI systems**.
+- 🎓 I am studying **Robotics, Cognition and Intelligence at Technical University of Munich(TUM)**.
 - 📫 Contact me: **herrxiao@outlook.com**
-- 💬 WeChat: `your-wechat-id`
 
 <br>
 
